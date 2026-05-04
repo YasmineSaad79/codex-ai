@@ -127,25 +127,6 @@ See `requirements.txt` for the complete list of dependencies:
 - [ ] User authentication system
 - [ ] Response rating system
 
-## 📄 License
-
-This project is created for educational purposes.
-
-## 👩‍💻 Author
-
-**Yasmin Saad**
-- GitHub: [@YasmineSaad79](https://github.com/YasmineSaad79)
-
-## 🙏 Acknowledgments
-
-- Built with [Streamlit](https://streamlit.io/)
-- Inspired by ChatGPT's interface design
-- Created as a university project demonstrating Python and Streamlit skills
-
-## 📞 Support
-
-For questions or issues, please open an issue on GitHub.
-
 ---
 
 **Note:** This chatbot uses local pattern matching for responses and does not require any external API keys or LLM services. All responses are generated locally using Python functions.
